@@ -1,6 +1,6 @@
 {
   "name": "@jeffriggle/bison-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/JeffreyRiggle/bison-express#readme",
   "dependencies": {
-    "@jeffriggle/bison": "^1.0.4",
+    "@jeffriggle/bison": "^1.0.5",
     "body-parser": "^1.19.0",
     "express": "^4.17.1"
   }
